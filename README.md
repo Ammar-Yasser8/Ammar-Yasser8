@@ -1,7 +1,9 @@
 # Hi there! 👋
 
 I'm **Ammar Yasser**, a passionate Backend Developer specializing in **.NET Core**. I'm currently pursuing my degree in **Computer Engineering** with a focus on automatic control. I enjoy building robust and scalable web solutions that prioritize clean code and quality.
-
+## Resume 📄
+You can view or download my CV for more details about my professional background and projects:
+- [View My CV](https://drive.google.com/file/d/1YHZnIPjhyMDV_UiPEaL8_b_vr52ywdlC/view?usp=drive_link)
 ## Skills 🛠️
 - **Languages**: C#, HTML, CSS , JS
 - **Frameworks**: .NET Core, ASP.NET MVC, ASP.NET APIs, Entity Framework , Bootstrap 

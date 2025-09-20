@@ -9,6 +9,8 @@ You can view or download my CV for more details about my professional background
 - **Frameworks**: .NET Core, ASP.NET MVC, ASP.NET APIs, Entity Framework , Bootstrap 
 - **Databases**: SQL Server 
 - **Tools**: Git, Visual Studio, Postman
+- [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github,postman,bootstrap,visualstudio,sqlserver)](https://skillicons.dev)
+
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -16,6 +18,7 @@ You can view or download my CV for more details about my professional background
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar-Yasser8&show_icons=true&theme=radical)
 
 ## Contact Information 📞
 Feel free to connect with me!

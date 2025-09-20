@@ -19,12 +19,14 @@ You can view or download my CV for more details about my professional background
 
 
 ![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar-Yasser8&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Yasser8&layout=compact&theme=radical)
+![Snake animation](https://github.com/Ammar-Yasser8/Ammar-Yasser8/blob/output/github-contribution-grid-snake.svg)
 
 ## Contact Information 📞
 Feel free to connect with me!
-- Email: [ammar.yasser8920@gmail.com](mailto:ammar.yasser8920@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ammar-yasser-a01772250/)
-- GitHub: [GitHub Profile](https://github.com/Ammar-Yasser8)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ammar.yasser8920@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ammar-Yasser8)
 
 
 

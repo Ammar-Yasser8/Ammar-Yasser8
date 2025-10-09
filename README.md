@@ -1,5 +1,5 @@
 <!-- Banner (create a free one on Canva and replace the link) -->
-![Banner](https://raw.githubusercontent.com/Ammar-Yasser8/Ammar-Yasser8/main/YouTube Banner - Ammar Yasser - Backend Developer(1).png)
+![Banner](https://raw.githubusercontent.com/Ammar-Yasser8/Ammar-Yasser8/main/banner1.png)
 
 # Hi there! 👋
 

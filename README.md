@@ -9,9 +9,6 @@ I enjoy building robust and scalable web solutions that prioritize **clean code*
 
 ---
 
-## 📄 Resume  
-You can view or download my CV here:  
-[![View My CV](https://drive.google.com/file/d/1r-8ijq6KrhEruOr-OZoEgVSH5xXazfAr/view?usp=sharing)]
 
 ---
 

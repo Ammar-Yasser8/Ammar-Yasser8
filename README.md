@@ -11,7 +11,7 @@ I enjoy building robust and scalable web solutions that prioritize **clean code*
 
 ## 📄 Resume  
 You can view or download my CV here:  
-[![View My CV](https://img.shields.io/badge/View%20My%20CV-0077B5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1uVAgCw2nMh-VZoHE1nHgVW2ZDvATg9mD/view?usp=sharing)
+[![View My CV](https://drive.google.com/file/d/1r-8ijq6KrhEruOr-OZoEgVSH5xXazfAr/view?usp=drive_link)
 
 ---
 

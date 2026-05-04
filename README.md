@@ -103,10 +103,13 @@ I'm a passionate **Backend Developer** specializing in **.NET Core** and **C#**,
 <div align="center">
 
 ![GitHub statistics for Ammar-Yasser8](https://github-readme-stats.vercel.app/api?username=Ammar-Yasser8&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
 ![Most used programming languages for Ammar-Yasser8](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Yasser8&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Yasser8&theme=radical)
+![GitHub Streak for Ammar-Yasser8](https://streak-stats.demolab.com/?user=Ammar-Yasser8&theme=radical)
+
+[![GitHub Trophies for Ammar-Yasser8](https://github-profile-trophy.vercel.app/?username=Ammar-Yasser8&theme=radical&no-frame=true&row=1&column=7)](https://github.com/Ammar-Yasser8)
+
+[![GitHub Activity Graph for Ammar-Yasser8](https://github-readme-activity-graph.vercel.app/graph?username=Ammar-Yasser8&theme=radical&hide_border=true)](https://github.com/Ammar-Yasser8)
 
 </div>
 

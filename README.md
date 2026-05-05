@@ -1,5 +1,4 @@
 <!-- Banner -->
-![Banner](https://raw.githubusercontent.com/Ammar-Yasser8/Ammar-Yasser8/main/banner1.png)
 
 <h1 align="center">Hi there, I'm Ammar Yasser! 👋</h1>
 
@@ -113,14 +112,6 @@ I'm a passionate **Backend Developer** specializing in **.NET Core**, currently 
 ---
 
 ## 📊 Development Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammar-Yasser8&show_icons=true&theme=radical&hide_border=true" alt="Ammar's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Yasser8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Yasser8&theme=radical&hide_border=true" alt="GitHub Streak" />
